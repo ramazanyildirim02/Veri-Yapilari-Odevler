@@ -25,7 +25,7 @@ Bir kargo şubesine gelmiş olan N kişinin geliş sıralarına göre kuyruk olu
 
 <br/>
 
-### Ödevler hakkındaki detaylar için her iki dosyada da bulunan *rapor.docx* dosyalarına göz atabilirsiniz.
+### Ödevler hakkındaki detaylar için her iki klasörde de bulunan *rapor.docx* dosyalarına göz atabilirsiniz.
 
 
 
